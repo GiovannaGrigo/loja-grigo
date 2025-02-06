@@ -1,0 +1,27 @@
+Categorias: 
+- Uniforme de Jogo
+- Treino e Viagem
+- Linha Torcedor
+- Polos
+
+---------------------------
+
+Uniforme de Jogo:
+- Camisa 1 24/25
+- Camisa 2 24/25
+- Camisa 3 24/25
+- Camisa Goleiro 1 24/25
+
+Treino e Viagem:
+- Camisa Treino e Viagem 24/25
+- Jaqueta Treino 24/25
+
+Linha Torcedor:
+- Camisa Motorsport
+- Camisa Football
+- Regata Basket Palestra
+
+Polos:
+- Polo Treino 22/23
+- Polo Viagem 20/21
+- Polo Casual 24/25
