@@ -7,21 +7,21 @@ Categorias:
 ---------------------------
 
 Uniforme de Jogo:
-- Camisa 1 24/25
-- Camisa 2 24/25
-- Camisa 3 24/25
-- Camisa Goleiro 1 24/25
+- Camisa 1 24/25 399,90
+- Camisa 2 24/25 349,99
+- Camisa 3 24/25 499,90
+- Camisa Goleiro 1 24/25 299,99
 
 Treino e Viagem:
-- Camisa Treino e Viagem 24/25
-- Jaqueta Treino 24/25
+- Camisa Treino e Viagem 24/25 279,90
+- Jaqueta Treino 24/25 949,99
 
 Linha Torcedor:
-- Camisa Motorsport
-- Camisa Football
-- Regata Basket Palestra
+- Camisa Motorsport 399,99
+- Camisa Football 159,90
+- Regata Basket Palestra 169,99
 
 Polos:
-- Polo Treino 22/23
-- Polo Viagem 20/21
-- Polo Casual 24/25
+- Polo Treino 22/23 149,99
+- Polo Viagem 20/21 249.90
+- Polo Casual 24/25 349,90

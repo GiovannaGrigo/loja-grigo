@@ -4,5 +4,10 @@
 }
 
 .navbarColor{
-    background-color: rgb(95, 155, 95);
+    background-color: rgb(27, 85, 53);
+}
+
+.bannerTamanho{
+    height: auto;
+    width: 100%;
 }
