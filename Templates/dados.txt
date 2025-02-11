@@ -8,20 +8,46 @@ Categorias:
 
 Uniforme de Jogo:
 - Camisa 1 24/25 399,90
+Descrição: O uniforme 1 é verde com detalhes em branco, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+
 - Camisa 2 24/25 349,99
+Descrição: O uniforme 2 é branco com detalhes em verde, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+
 - Camisa 3 24/25 499,90
+Descrição: O uniforme 3 é dourado com detalhes em verde, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+
 - Camisa Goleiro 1 24/25 299,99
+Descrição: O uniforme 1 de goleiro é azul com listras em um tom mais claro de azul, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+
+---------------------------
 
 Treino e Viagem:
 - Camisa Treino e Viagem 24/25 279,90
+Descrição: A camisa de treino é verde limão com detalhes em verde escuro, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+
 - Jaqueta Treino 24/25 949,99
+Descrição: A jaqueta de treino é azul com detalhes em um tom de azul mais escuro, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+
+---------------------------
 
 Linha Torcedor:
 - Camisa Motorsport 399,99
+Descrição: A camiseta Motorsport traz um design moderno e arrojado, com detalhes que combinam estilo e performance. Inspirada no universo das competições automobilísticas, ela une a tradição do clube à energia do esporte a motor.
+
 - Camisa Football 159,90
+Descrição: A camiseta Football é inspirada no estilo do futebol americano, com um design robusto e detalhes marcantes. Ela mistura a identidade do clube com a estética das ligas norte-americanas, trazendo um toque esportivo e moderno.
+
 - Regata Basket Palestra 169,99
+Descrição: A camisa regata Basket é inspirada no basquete, com um design urbano e esportivo. Com detalhes que lembram a estética das quadras, ela combina estilo e praticidade, sendo perfeita para os fãs do clube e do esporte.
+
+---------------------------
 
 Polos:
 - Polo Treino 22/23 149,99
+Descrição: A camisa polo de treino 22/23, na cor azul, traz um design sofisticado e moderno, com detalhes sutis que valorizam a identidade do clube. Ideal para quem busca um estilo casual e elegante, ela une conforto e tradição de forma discreta e refinada.
+
 - Polo Viagem 20/21 249.90
+Descrição: A camisa polo de viagem 20/21 apresenta um design elegante e confortável, ideal para os momentos de deslocamento dos jogadores. Com detalhes em verde e o escudo do clube, ela combina estilo casual com a tradição alviverde.
+
 - Polo Casual 24/25 349,90
+Descrição: A camisa polo casual 24/25 combina sofisticação e descontração, com um design moderno e detalhes que refletem a identidade do clube. Perfeita para ocasiões casuais, ela traz o estilo clássico da polo com um toque contemporâneo, ideal para os torcedores alviverdes.
