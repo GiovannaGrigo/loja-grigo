@@ -11,3 +11,13 @@
     height: auto;
     width: 100%;
 }
+
+.card-footer div a{
+    border: 2px solid #1b5535;
+    transition:300ms;
+}
+
+.card-footer div a:hover{
+    background-color: #1b5535;
+    color:white;
+}
