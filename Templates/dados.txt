@@ -8,16 +8,25 @@ Categorias:
 
 Uniforme de Jogo:
 - Camisa 1 24/25 399,90
-Descrição: O uniforme 1 é verde com detalhes em branco, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+Descrição: O uniforme 1 24/25 é verde com detalhes em branco, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
 
 - Camisa 2 24/25 349,99
-Descrição: O uniforme 2 é branco com detalhes em verde, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+Descrição: O uniforme 2 24/25 é branco com detalhes em verde, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
 
 - Camisa 3 24/25 499,90
-Descrição: O uniforme 3 é dourado com detalhes em verde, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+Descrição: O uniforme 3 24/25 é dourado com detalhes em verde, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
 
 - Camisa Goleiro 1 24/25 299,99
-Descrição: O uniforme 1 de goleiro é azul com listras em um tom mais claro de azul, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+Descrição: O uniforme 1 de goleiro 24/25 é azul com listras em um tom mais claro de azul, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+
+- Camisa 1 25/26 499,99
+Descrição: O uniforme 1 25/26 é verde com detalhes em branco, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+
+- Camisa 2 25/26 499,99
+Descrição: O uniforme 2 25/26 é branco com as mangas em verde, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
+
+- Camisa Goleiro 1 25/26 499,99
+Descrição: O uniforme 1 de goleiro 25/26 é azul claro com detalhes em um tom de azul mais escuro, destacando o escudo do clube no peito. Possui design moderno e confortável, com tecnologia para garantir desempenho e respirabilidade.
 
 ---------------------------
 
