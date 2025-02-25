@@ -1,8 +1,8 @@
 Categorias: 
-- Uniforme de Jogo
-- Treino e Viagem
-- Linha Torcedor
-- Polos
+- Uniforme de Jogo - Id 1
+- Treino e Viagem - Id 2
+- Linha Torcedor - Id 3
+- Polos - Id 4
 
 ---------------------------
 
