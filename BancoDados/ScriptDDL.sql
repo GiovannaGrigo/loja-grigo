@@ -1,6 +1,8 @@
 CREATE DATABASE lojinha;
+GO
 
 USE lojinha;
+GO
 
 CREATE TABLE Categoria(
 	Id			INT not null IDENTITY PRIMARY KEY,
