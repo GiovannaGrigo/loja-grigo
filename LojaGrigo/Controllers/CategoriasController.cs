@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using LojaGrigo.Data;
 using LojaGrigo.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -8,14 +9,17 @@ public class CategoriasController : Controller
 {
     private readonly ILogger<CategoriasController> _logger;
     private readonly AppDbContext _db;
+    private readonly IWebHostEnvironment _host;
 
     public CategoriasController(
         ILogger<CategoriasController> logger,
-        AppDbContext db   
+        AppDbContext db,
+        IWebHostEnvironment host
     )
     {
         _logger = logger;
         _db = db;
+        _host = host;
     }
 
     public IActionResult Index()
@@ -24,9 +28,39 @@ public class CategoriasController : Controller
         return View(categorias);
     }
 
+    [HttpGet]
     public IActionResult Create()
     {
         return View();
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public async Task<IActionResult> Create(Categoria categoria, IFormFile Arquivo)
+    {
+        if (ModelState.IsValid)
+        {
+            _db.Categorias.Add(categoria);
+            await _db.SaveChangesAsync();
+
+            // Salvar a foto no servidor
+            if (Arquivo != null)
+            {
+                string nomeArquivo = categoria.Id + Path.GetExtension(Arquivo.FileName);
+                string caminho = Path.Combine(_host.WebRootPath, "img\\categorias");
+                string novoArquivo = Path.Combine(caminho, nomeArquivo);
+                using (FileStream stream = new(novoArquivo, FileMode.Create))
+                {
+                    Arquivo.CopyTo(stream);
+                }
+                categoria.Foto = "\\img\\categorias\\" + nomeArquivo;
+                await _db.SaveChangesAsync();
+            }
+
+            TempData["Success"] = "Categoria cadastrada com sucesso!";
+            return RedirectToAction(nameof(Index));
+        }
+        return View(categoria);
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
