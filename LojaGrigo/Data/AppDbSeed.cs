@@ -236,7 +236,7 @@ public class AppDbSeed
                 EmailConfirmed = true,
                 Nome = "Giovanna Grigolato",
                 DataNascimento = DateTime.Parse("14/12/2006"),
-                Foto = "/img/giovanna.webp"
+                Foto = "/img/usuarios/giovanna.png"
             }
         };
         foreach (var user in usuarios)
